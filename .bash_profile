@@ -4,3 +4,4 @@ source /usr/local/opt/chruby/share/chruby/auto.sh
 export PGHOST=/tmp
 export PGDATA=~/.postgres
 export EDITOR='atom -w'
+export RUBYGEMS_GEMDEPS=-
