@@ -4,5 +4,3 @@
 	email = student@epicodus.com
 [core]
 	excludesfile = /Users/Guest/.gitignore_global
-[credential]
-	helper = osxkeychain
